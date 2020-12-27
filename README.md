@@ -1,3 +1,4 @@
+[toc]
 # SMR
 The Summary Mendelian randomization (SMR) method
 The folder Case_data contains simulated GWAS and eQTL data；
